@@ -1,0 +1,611 @@
+timestamp,id,evento,usuario,estado,texto_ingresado,respuesta,nivel
+1655415992,1,inicio_partida,Eduardo,-,-,-,personalizado
+1655415995,1,intento,Eduardo,ok,Kastriot Imeri,Kastriot Imeri,personalizado
+1655415997,1,intento,Eduardo,error,Kastriot Imeri,Lago Epuyén,personalizado
+1655415998,1,intento,Eduardo,error,Kastriot Imeri,5 Seconds of Summer,personalizado
+1655416000,1,intento,Eduardo,error,Lunay,Dua Lipa,personalizado
+1655416001,1,intento,Eduardo,error,Madger Gomes,Kevin Escamilla,personalizado
+1655416003,1,intento,Eduardo,error,Robbie Williams,Chris Brown,personalizado
+1655416008,1,intento,Eduardo,error,Maciej Wolski,Andy Lonergan,personalizado
+1655416011,1,intento,Eduardo,error,Rich Homie Quan,NF,personalizado
+1655416011,1,fin,Eduardo,finalizada,-,-,personalizado
+1655422556,2,inicio_partida,Eduardo,-,-,-,personalizado
+1655422557,2,intento,Eduardo,ok,Matías Pérez,Matías Pérez,personalizado
+1655422559,2,intento,Eduardo,error,Lago Viedma,Lago Buenos Aires,personalizado
+1655422561,2,intento,Eduardo,ok,Mário Rui,Mário Rui,personalizado
+1655422563,2,intento,Eduardo,error,Lago Huechulafquen,Lago Gutiérrez,personalizado
+1655422565,2,intento,Eduardo,ok,Imagine Dragons,Imagine Dragons,personalizado
+1655422595,2,intento,Eduardo,timeout,-,Alexander Weidinger,personalizado
+1655422599,2,intento,Eduardo,ok,Ben Stephens,Ben Stephens,personalizado
+1655422605,2,intento,Eduardo,error,Lago Pellegrini,Lago Viedma,personalizado
+1655422605,2,fin,Eduardo,finalizada,-,-,personalizado
+1655422617,3,inicio_partida,Bruna,-,-,-,normal
+1655422619,3,intento,Bruna,error,The Wanted,DJ Khaled,normal
+1655422620,3,intento,Bruna,error,Lago La Plata,Lago Cholila,normal
+1655422622,3,intento,Bruna,error,Carlos Gutiérrez,Gwon Wan Gyu,normal
+1655422623,3,fin,Bruna,abandonada,-,-,normal
+1655422627,4,inicio_partida,Bruna,-,-,-,normal
+1655422630,4,intento,Bruna,ok,Noah And The Whale,Noah And The Whale,normal
+1655422632,4,intento,Bruna,error,Mann,5 Seconds of Summer,normal
+1655422633,4,intento,Bruna,error,Mann,Red Hot Chili Peppers,normal
+1655422634,4,intento,Bruna,error,Cardi B,Logic,normal
+1655422635,4,fin,Bruna,abandonada,-,-,normal
+1655423161,5,inicio_partida,Lautaro,-,-,-,experto
+1655423169,5,intento,Lautaro,error,Lago Mascardi,Lago Posadas,experto
+1655423170,5,intento,Lautaro,error,Lago Mascardi,Lago Lácar,experto
+1655423171,5,intento,Lautaro,error,Lago Perito Moreno,Lago Buenos Aires,experto
+1655423174,5,intento,Lautaro,error,Ella Mai,Tyga,experto
+1655423175,5,intento,Lautaro,error,Patrick Drewes,Jesús Angulo,experto
+1655423177,5,intento,Lautaro,error,Xeka,Calvin Dekuyper,experto
+1655423178,5,intento,Lautaro,error,Mickey Demetriou,Han Rongze,experto
+1655423179,5,intento,Lautaro,error,Mickey Demetriou,Billie Eilish,experto
+1655423179,5,intento,Lautaro,error,Mickey Demetriou,Christina Perri,experto
+1655423180,5,intento,Lautaro,error,Mickey Demetriou,Miley Cyrus,experto
+1655423180,5,intento,Lautaro,error,Mickey Demetriou,Drake,experto
+1655423180,5,intento,Lautaro,error,Mickey Demetriou,Lago Perito Moreno,experto
+1655423180,5,intento,Lautaro,error,Mickey Demetriou,Fredditinho,experto
+1655423180,5,intento,Lautaro,error,Mickey Demetriou,Avicii,experto
+1655423180,5,intento,Lautaro,error,Mickey Demetriou,Wang Jinxian,experto
+1655423181,5,intento,Lautaro,error,Mickey Demetriou,Nicolas Jüllich,experto
+1655423181,5,intento,Lautaro,error,Mickey Demetriou,Gui Hong,experto
+1655423181,5,intento,Lautaro,error,Mickey Demetriou,Lago Río Bueno,experto
+1655423181,5,intento,Lautaro,error,Mickey Demetriou,Blanco Brown,experto
+1655423181,5,intento,Lautaro,error,Mickey Demetriou,LMFAO,experto
+1655423181,5,fin,Lautaro,finalizada,-,-,experto
+1655423216,6,inicio_partida,Lucia,-,-,-,personalizado
+1655423222,6,intento,Lucia,ok,Emanuele Cicerelli,Emanuele Cicerelli,personalizado
+1655423226,6,intento,Lucia,error,Ioan Filip,Harrison Reed,personalizado
+1655423231,6,intento,Lucia,error,Zedd,Daya,personalizado
+1655423239,6,intento,Lucia,error,James Arthur,Charlie Puth,personalizado
+1655423244,6,intento,Lucia,ok,Josué da Feira,Josué da Feira,personalizado
+1655423246,6,intento,Lucia,error,Lago Aluminé,Lago Lácar,personalizado
+1655423249,6,intento,Lucia,ok,Dávid Hancko,Dávid Hancko,personalizado
+1655423252,6,intento,Lucia,error,Dávid Hancko,Marshmello,personalizado
+1655423254,6,intento,Lucia,error,Dávid Hancko,The Wanted,personalizado
+1655423254,6,fin,Lucia,finalizada,-,-,personalizado
+1655423407,7,inicio_partida,Lucia,-,-,-,personalizado
+1655423409,7,intento,Lucia,ok,Lago Azara,Lago Azara,personalizado
+1655423414,7,intento,Lucia,ok,Mihai Dobrescu,Mihai Dobrescu,personalizado
+1655423419,7,intento,Lucia,ok,Lago Tar,Lago Tar,personalizado
+1655423424,7,intento,Lucia,error,LMFAO,Usher,personalizado
+1655423427,7,intento,Lucia,ok,Lago Belgrano,Lago Belgrano,personalizado
+1655423430,7,intento,Lucia,error,Sean Kingston,Cali Swag District,personalizado
+1655423434,7,intento,Lucia,error,Lago Futalaufquen,Lago Buenos Aires,personalizado
+1655423442,7,intento,Lucia,ok,Lago Tar,Lago Tar,personalizado
+1655423451,7,intento,Lucia,ok,Josmar Zambrano,Josmar Zambrano,personalizado
+1655423451,7,fin,Lucia,finalizada,-,-,personalizado
+1655423587,8,inicio_partida,Lautaro,-,-,-,personalizado
+1655423593,8,intento,Lautaro,error,Celso Ortíz,Anibal Gómez,personalizado
+1655423598,8,intento,Lautaro,error,Callum Morris,Gerzino Nyamsi,personalizado
+1655423603,8,intento,Lautaro,ok,Jordy Gaspar,Jordy Gaspar,personalizado
+1655423608,8,intento,Lautaro,ok,Stefano Sturaro,Stefano Sturaro,personalizado
+1655423615,8,intento,Lautaro,ok,Luke Hyam,Luke Hyam,personalizado
+1655423618,8,intento,Lautaro,error,Rafael Camacho,Amar Sejdic,personalizado
+1655423619,8,intento,Lautaro,error,Mark Depta,Luis Poblete,personalizado
+1655423620,8,intento,Lautaro,error,Lago Perito Moreno,Lago Epecuén,personalizado
+1655423621,8,intento,Lautaro,error,Lago Perito Moreno,Giovanni Zarfino,personalizado
+1655423622,8,intento,Lautaro,ok,Kristian Thorstvedt,Kristian Thorstvedt,personalizado
+1655423623,8,fin,Lautaro,finalizada,-,-,personalizado
+1655423935,9,inicio_partida,Damian,-,-,-,personalizado
+1655423939,9,intento,Damian,error,Moisés Caicedo,Silas Almeim,personalizado
+1655423940,9,intento,Damian,error,Lago Cardiel,Lago General Vintter,personalizado
+1655423942,9,intento,Damian,error,Lago Buenos Aires,Lago Ghío,personalizado
+1655423944,9,intento,Damian,error,Lago Onelli,Lago Gutiérrez,personalizado
+1655423945,9,intento,Damian,ok,The Weeknd,The Weeknd,personalizado
+1655423946,9,intento,Damian,ok,Johannes Bühler,Johannes Bühler,personalizado
+1655423948,9,intento,Damian,error,Lago Pellegrini,Lago Asador o Guitarra,personalizado
+1655423949,9,intento,Damian,ok,MK,MK,personalizado
+1655423951,9,intento,Damian,error,The Chainsmokers,Years & Years,personalizado
+1655423952,9,intento,Damian,error,Usher,Imagine Dragons,personalizado
+1655423953,9,intento,Damian,error,Milton Álvarez,Lloyd Isgrove,personalizado
+1655423955,9,intento,Damian,error,FINNEAS,Linkin Park,personalizado
+1655423956,9,intento,Damian,error,Javier Parraguez,Mario Ortíz,personalizado
+1655423957,9,intento,Damian,error,Lago Menéndez,Lago Tar,personalizado
+1655423959,9,intento,Damian,error,Lago Quiroga,Lago Yehuin,personalizado
+1655423960,9,fin,Damian,finalizada,-,-,personalizado
+1655424002,10,inicio_partida,Gema,-,-,-,facil
+1655424008,10,intento,Gema,error,Lago Espejo,Lago Pellegrini,facil
+1655424010,10,intento,Gema,error,Vegard Forren,Flemming Niemann,facil
+1655424011,10,fin,Gema,abandonada,-,-,facil
+1655475600,11,inicio_partida,Marian,-,-,-,dificil
+1655475630,11,intento,Marian,error,Lago Pico Nº 1,Lago General Vintter,dificil
+1655475652,11,intento,Marian,error,Eric Church,Macklemore,dificil
+1655475666,11,intento,Marian,ok,Ilhan Parlak,Ilhan Parlak,dificil
+1655475680,11,intento,Marian,error,JAY-Z,Axwell /\ Ingrosso,dificil
+1655475687,11,intento,Marian,ok,Arda Kizildag,Arda Kizildag,dificil
+1655475701,11,intento,Marian,error,Anthony Maisonnial,Jón Gu?ni Fjóluson,dificil
+1655475713,11,intento,Marian,error,Black Eyed Peas,G.R.L.,dificil
+1655475723,11,intento,Marian,error,Philipp Tschauner,Michael Woud,dificil
+1655475731,11,intento,Marian,error,Lago Belgrano,Lago Posadas,dificil
+1655475745,11,intento,Marian,error,Lago Onelli,Lago Buenos Aires,dificil
+1655475745,11,fin,Marian,finalizada,-,-,dificil
+1655728800,12,inicio_partida,Joaquin,-,-,-,personalizado
+1655728804,12,intento,Joaquin,error,Taylor Swift,Drake,personalizado
+1655728805,12,intento,Joaquin,error,Bruno Romo,Nathaniel Mendez-Laing,personalizado
+1655728807,12,intento,Joaquin,ok,Reece Hutchinson,Reece Hutchinson,personalizado
+1655728810,12,intento,Joaquin,error,Patrick Bamford,Josué Homawoo,personalizado
+1655728812,12,intento,Joaquin,error,Klangkarussell,Rudimental,personalizado
+1655728812,12,fin,Joaquin,finalizada,-,-,personalizado
+1655728831,13,inicio_partida,Joaquin,-,-,-,personalizado
+1655728835,13,intento,Joaquin,ok,Sia,Sia,personalizado
+1655728837,13,intento,Joaquin,error,Lago Epecuén,Lago Lolog,personalizado
+1655728839,13,intento,Joaquin,error,Lago Epecuén,Lago Cardiel,personalizado
+1655728841,13,intento,Joaquin,ok,Lago Viedma,Lago Viedma,personalizado
+1655728843,13,intento,Joaquin,error,Mitchell Dijks,Heung Min Son,personalizado
+1655728845,13,intento,Joaquin,error,JAY-Z,Arctic Monkeys,personalizado
+1655728847,13,intento,Joaquin,error,Lago Nahuel Huapi,Lago Rosario,personalizado
+1655728850,13,intento,Joaquin,error,Justin Bieber,Lana Del Rey,personalizado
+1655728853,13,intento,Joaquin,error,Lago Correntoso,Lago Currhué,personalizado
+1655728855,13,intento,Joaquin,error,Post Malone,Justin Bieber,personalizado
+1655728856,13,intento,Joaquin,error,Lago La Plata,Lago San Martín,personalizado
+1655728858,13,intento,Joaquin,ok,Alessandro Semprini,Alessandro Semprini,personalizado
+1655728861,13,intento,Joaquin,error,Lago Futalaufquen,Lago Viedma,personalizado
+1655728863,13,intento,Joaquin,error,Lucas Mantela,Lewis Dunk,personalizado
+1655728865,13,intento,Joaquin,error,Lago General Vintter,Lago Fontana,personalizado
+1655728865,13,fin,Joaquin,finalizada,-,-,personalizado
+1655730609,14,inicio_partida,Lucia,-,-,-,personalizado
+1655730615,14,intento,Lucia,error,Lago Aluminé,Lago Epuyén,personalizado
+1655730624,14,intento,Lucia,error,Ronaldo Rivas,Stefan Frei,personalizado
+1655730629,14,intento,Lucia,ok,ScHoolboy Q,ScHoolboy Q,personalizado
+1655730635,14,intento,Lucia,error,Lago Tromen,Lago Quillén,personalizado
+1655730640,14,intento,Lucia,error,Lago Pellegrini,Lago Río Bueno,personalizado
+1655730644,14,intento,Lucia,error,Britney Spears,MØ,personalizado
+1655730650,14,intento,Lucia,ok,Lago Rivadavia,Lago Rivadavia,personalizado
+1655730654,14,intento,Lucia,error,Lago Ghío,Lago Fagnano,personalizado
+1655730658,14,intento,Lucia,ok,Jung Seok Hwa,Jung Seok Hwa,personalizado
+1655730658,14,fin,Lucia,finalizada,-,-,personalizado
+1655731332,15,inicio_partida,Franco,-,-,-,facil
+1655731334,15,intento,Franco,error,Lago Fontana,Lago Tromen,facil
+1655731335,15,intento,Franco,error,Adrian Lyszczarz,Philipp Wiesinger,facil
+1655731337,15,intento,Franco,error,Ji Xiang,Mike Frantz,facil
+1655731342,15,intento,Franco,error,Amilton,Julen Lobete,facil
+1655731344,15,intento,Franco,error,Lago Traful,Lago Tar,facil
+1655731344,15,fin,Franco,finalizada,-,-,facil
+1655731561,16,inicio_partida,Damian,-,-,-,facil
+1655731569,16,intento,Damian,ok,Beyoncé,Beyoncé,facil
+1655731574,16,intento,Damian,ok,Moussa Koné,Moussa Koné,facil
+1655731579,16,intento,Damian,ok,Anthony Wordsworth,Anthony Wordsworth,facil
+1655731585,16,intento,Damian,error,DJ Khaled,Usher,facil
+1655731589,16,intento,Damian,error,Lago Pico Nº 1,Lago San Martín,facil
+1655731589,16,fin,Damian,finalizada,-,-,facil
+1655731607,17,inicio_partida,Ezequiel,-,-,-,personalizado
+1655731619,17,intento,Ezequiel,ok,Lago La Plata,Lago La Plata,personalizado
+1655731621,17,intento,Ezequiel,error,Lago Buenos Aires,Lago Traful,personalizado
+1655731625,17,intento,Ezequiel,error,Marcel Rømer,Benjamín Vidal,personalizado
+1655731626,17,intento,Ezequiel,ok,Raúl Lizoain,Raúl Lizoain,personalizado
+1655731627,17,intento,Ezequiel,error,Lago Pico Nº 1,Lago Nahuel Huapi,personalizado
+1655731629,17,intento,Ezequiel,error,Michael Salazar,Nahitan Nández,personalizado
+1655731630,17,intento,Ezequiel,error,Michael Salazar,Boli Bolingoli,personalizado
+1655731631,17,intento,Ezequiel,error,Michael Salazar,Leigh Broxham,personalizado
+1655731633,17,intento,Ezequiel,error,X Ambassadors,Jason Derulo,personalizado
+1655731635,17,intento,Ezequiel,error,Jax Jones,Shelley FKA DRAM,personalizado
+1655731635,17,fin,Ezequiel,finalizada,-,-,personalizado
+1655731679,18,inicio_partida,Antonela,-,-,-,facil
+1655731681,18,intento,Antonela,ok,Swedish House Mafia,Swedish House Mafia,facil
+1655731683,18,intento,Antonela,error,Lago Lácar,Lago Rosario,facil
+1655731686,18,intento,Antonela,ok,Takumi Sasaki,Takumi Sasaki,facil
+1655731690,18,intento,Antonela,error,Lago Blanco,Lago Yehuin,facil
+1655731694,18,intento,Antonela,error,Calum Scott,Offset,facil
+1655731694,18,fin,Antonela,finalizada,-,-,facil
+1655731715,19,inicio_partida,Lautaro,-,-,-,experto
+1655731718,19,intento,Lautaro,error,Lago Espejo,Lago Nansen,experto
+1655731720,19,intento,Lautaro,ok,Lago Currhué,Lago Currhué,experto
+1655731722,19,intento,Lautaro,ok,Paolo Faragò,Paolo Faragò,experto
+1655731724,19,intento,Lautaro,error,Lee Bum Young,Tomáš Pekhart,experto
+1655731727,19,intento,Lautaro,ok,Lago Musters,Lago Musters,experto
+1655731729,19,intento,Lautaro,error,Lago Futalaufquen,Lago Ghío,experto
+1655731730,19,intento,Lautaro,error,Lago Río Bueno,Lago Menéndez,experto
+1655731731,19,intento,Lautaro,error,Lago Río Bueno,Lago Nansen,experto
+1655731733,19,intento,Lautaro,error,Lago Aluminé,Lago Currhué,experto
+1655731737,19,intento,Lautaro,error,Alexis De Sart,Ander Guevara,experto
+1655731739,19,intento,Lautaro,error,Lago Strobel,Lago Puelo,experto
+1655731749,19,intento,Lautaro,error,Bryson Tiller,The Chainsmokers,experto
+1655731749,19,fin,Lautaro,finalizada,-,-,experto
+1655731888,20,inicio_partida,Franquito Dosan,-,-,-,facil
+1655731890,20,intento,Franquito Dosan,error,Ezequiel Bonifacio,Petri?or Petrescu,facil
+1655731892,20,intento,Franquito Dosan,ok,Justin Bieber,Justin Bieber,facil
+1655731894,20,intento,Franquito Dosan,error,Lago Falkner,Lago Pellegrini,facil
+1655731897,20,intento,Franquito Dosan,error,Josh Hope,Sei Muroya,facil
+1655731901,20,intento,Franquito Dosan,ok,Fetty Wap,Fetty Wap,facil
+1655731901,20,fin,Franquito Dosan,finalizada,-,-,facil
+1655822562,21,inicio_partida,Lucia,-,-,-,personalizado
+1655822572,21,fin,Lucia,abandonada,-,-,personalizado
+1655822579,22,inicio_partida,Damian,-,-,-,facil
+1655822583,22,intento,Damian,error,Lago Tromen,Lago Correntoso,facil
+1655822593,22,intento,Damian,error,Paulus Arajuuri,Mthokozisi Dube,facil
+1655822598,22,intento,Damian,ok,Mark Ronson,Mark Ronson,facil
+1655822602,22,intento,Damian,error,Lago Río Bueno,Lago Río Chico,facil
+1655822605,22,intento,Damian,ok,Thomas Vermaelen,Thomas Vermaelen,facil
+1655822605,22,fin,Damian,finalizada,-,-,facil
+1655840680,23,inicio_partida,Damian,-,-,-,facil
+1655840690,23,intento,Damian,error,Lago Onelli,Lago Viedma,facil
+1655840693,23,intento,Damian,error,Anthony Gordon,Jak McCourt,facil
+1655840695,23,intento,Damian,error,Tibor Joza,Rafael Camacho,facil
+1655840699,23,intento,Damian,error,Taylor Swift,Avicii,facil
+1655840702,23,intento,Damian,ok,Danijel Petrovic,Danijel Petrovic,facil
+1655840702,23,fin,Damian,finalizada,-,-,facil
+1655840734,24,inicio_partida,Antonela,-,-,-,facil
+1655840741,24,intento,Antonela,ok,Miranda,Miranda,facil
+1655840750,24,intento,Antonela,error,Lago Azara,Lago Rivadavia,facil
+1655840751,24,intento,Antonela,error,Khalid,JAY-Z,facil
+1655840753,24,intento,Antonela,error,Niall Horan,Sigala,facil
+1655840755,24,intento,Antonela,error,Lago Onelli,Lago Ghío,facil
+1655840755,24,fin,Antonela,finalizada,-,-,facil
+1655840831,25,inicio_partida,Damian,-,-,-,facil
+1655840835,25,intento,Damian,ok,Stevie Mallan,Stevie Mallan,facil
+1655840837,25,intento,Damian,ok,Post Malone,Post Malone,facil
+1655840839,25,intento,Damian,ok,Dani Pacheco,Dani Pacheco,facil
+1655840840,25,intento,Damian,error,One Direction,Katy Perry,facil
+1655840841,25,intento,Damian,error,One Direction,Regard,facil
+1655840841,25,fin,Damian,finalizada,-,-,facil
+1655840970,26,inicio_partida,Joaquin,-,-,-,personalizado
+1655840976,26,intento,Joaquin,error,Abdullah Saud Al Mutairi,Dennis Man,personalizado
+1655840979,26,intento,Joaquin,error,Dylan Louiserre,Yann Gboho,personalizado
+1655840980,26,intento,Joaquin,error,Meshari Al Thmali,Sebastian Soto,personalizado
+1655840981,26,intento,Joaquin,error,Meshari Al Thmali,Robert Leipertz,personalizado
+1655840983,26,intento,Joaquin,error,Lago Cholila,Lago Futalaufquen,personalizado
+1655840987,26,fin,Joaquin,abandonada,-,-,personalizado
+1655841138,27,inicio_partida,Joaquin,-,-,-,personalizado
+1655841142,27,intento,Joaquin,error,Fredrik Oldrup Jensen,Michael Rangel,personalizado
+1655841144,27,intento,Joaquin,error,Disclosure,will.i.am,personalizado
+1655841147,27,fin,Joaquin,abandonada,-,-,personalizado
+1655841491,28,inicio_partida,Rodrigo,-,-,-,facil
+1655841500,28,intento,Rodrigo,error,Vedran Corluka,Amanpreet Varkay,facil
+1655841503,28,intento,Rodrigo,error,Bruno Mars,Halsey,facil
+1655841507,28,intento,Rodrigo,error,Lago Lácar,Lago Espejo,facil
+1655841509,28,intento,Rodrigo,error,Lago Menéndez,Lago Gutiérrez,facil
+1655841510,28,intento,Rodrigo,error,Lago Meliquina,Lago Strobel,facil
+1655841510,28,fin,Rodrigo,finalizada,-,-,facil
+1655841514,29,inicio_partida,Lucia,-,-,-,personalizado
+1655841518,29,fin,Lucia,abandonada,-,-,personalizado
+1655841569,30,inicio_partida,Rodrigo,-,-,-,facil
+1655841571,30,intento,Rodrigo,error,Joseph Mora,Arjan Swinkels,facil
+1655841573,30,intento,Rodrigo,error,Billie Eilish,fun.,facil
+1655841575,30,intento,Rodrigo,error,Lago Tar,Lago Pico Nº 1,facil
+1655841577,30,intento,Rodrigo,error,Lago San Martín,Lago Burmeister,facil
+1655841579,30,fin,Rodrigo,abandonada,-,-,facil
+1655841601,31,inicio_partida,Lucia,-,-,-,personalizado
+1655841604,31,intento,Lucia,error,Lago Río Chico,Lago Cardiel,personalizado
+1655841606,31,intento,Lucia,error,will.i.am,Calvin Harris,personalizado
+1655841608,31,intento,Lucia,error,Kygo,ZAYN,personalizado
+1655841609,31,intento,Lucia,ok,Calvin Harris,Calvin Harris,personalizado
+1655841611,31,intento,Lucia,error,Lago Lácar,Lago Mascardi,personalizado
+1655841614,31,intento,Lucia,ok,Dani Ceballos,Dani Ceballos,personalizado
+1655841616,31,intento,Lucia,error,Fetty Wap,2 Chainz,personalizado
+1655841617,31,intento,Lucia,error,Hüseyin Bulut,Johan Branger-Engone,personalizado
+1655841618,31,intento,Lucia,error,Tim Rieder,Luke Steele,personalizado
+1655841618,31,fin,Lucia,finalizada,-,-,personalizado
+1655841624,32,inicio_partida,Rodrigo,-,-,-,facil
+1655841626,32,intento,Rodrigo,error,Megan Thee Stallion,Rihanna,facil
+1655841627,32,intento,Rodrigo,ok,Bobby Shmurda,Bobby Shmurda,facil
+1655841633,32,intento,Rodrigo,error,Bobby Shmurda,Lago Perito Moreno,facil
+1655841634,32,intento,Rodrigo,ok,Luis Milla,Luis Milla,facil
+1655841636,32,intento,Rodrigo,error,Zedd,Tim Berg,facil
+1655841636,32,fin,Rodrigo,finalizada,-,-,facil
+1655841691,33,inicio_partida,Rodrigo,-,-,-,facil
+1655841692,33,intento,Rodrigo,error,Offset,Selena Gomez,facil
+1655841694,33,intento,Rodrigo,error,Billy Gilmour,Lucas Akins,facil
+1655841697,33,intento,Rodrigo,error,Lago Correntoso,Lago Quiroga Chico,facil
+1655841698,33,intento,Rodrigo,error,Lago Correntoso,fun.,facil
+1655841699,33,intento,Rodrigo,error,Lee Nicholls,Alexander Aguilmera,facil
+1655841700,33,fin,Rodrigo,finalizada,-,-,facil
+1655842183,34,inicio_partida,Eduardo,-,-,-,personalizado
+1655842186,34,fin,Eduardo,abandonada,-,-,personalizado
+1655842411,35,inicio_partida,Lautaro,-,-,-,personalizado
+1655842416,35,intento,Lautaro,error,Sara Bareilles,Hayden James,personalizado
+1655842446,35,intento,Lautaro,timeout,-,Lago Yehuin,personalizado
+1655842450,35,intento,Lautaro,error,Jason Aldean,Post Malone,personalizado
+1655842460,35,intento,Lautaro,error,Lorde,Chris Brown,personalizado
+1655842463,35,intento,Lautaro,error,Regard,Kendrick Lamar,personalizado
+1655842465,35,intento,Lautaro,ok,Lago Meliquina,Lago Meliquina,personalizado
+1655842488,35,intento,Lautaro,ok,Gianluca Pegolo,Gianluca Pegolo,personalizado
+1655842490,35,intento,Lautaro,error,Duke Dumont,WALK THE MOON,personalizado
+1655842491,35,intento,Lautaro,ok,Alan Pulido,Alan Pulido,personalizado
+1655842494,35,intento,Lautaro,error,The 1975,Example,personalizado
+1655842494,35,fin,Lautaro,finalizada,-,-,personalizado
+1655843838,36,inicio_partida,Bruna,-,-,-,facil
+1655843842,36,intento,Bruna,error,Lago Viedma,Lago Strobel,facil
+1655843844,36,intento,Bruna,ok,Mario Sonnleitner,Mario Sonnleitner,facil
+1655843845,36,intento,Bruna,error,Lago Onelli,Lago Menéndez,facil
+1655843847,36,intento,Bruna,error,M83,Katy Perry,facil
+1655843850,36,intento,Bruna,ok,Lago Menéndez,Lago Menéndez,facil
+1655843850,36,fin,Bruna,finalizada,-,-,facil
+1655843990,37,inicio_partida,Francisca,-,-,-,facil
+1655843991,37,intento,Francisca,error,Jesper Hansen,Lucas Pirard,facil
+1655843993,37,intento,Francisca,ok,Ed Sheeran,Ed Sheeran,facil
+1655843995,37,intento,Francisca,error,Ed Sheeran,Lago Traful,facil
+1655843997,37,intento,Francisca,error,Charlie Puth,Katy Perry,facil
+1655843998,37,intento,Francisca,error,Calvin Harris,Mumford & Sons,facil
+1655843998,37,fin,Francisca,finalizada,-,-,facil
+1655844090,38,inicio_partida,Eduardo,-,-,-,personalizado
+1655844095,38,intento,Eduardo,error,Lago Espejo,Lago Paimún,personalizado
+1655844097,38,intento,Eduardo,error,Lago Yehuin,Lago Lolog,personalizado
+1655844099,38,intento,Eduardo,error,Cristian Martínez Borja,Jon Mellish,personalizado
+1655844100,38,intento,Eduardo,error,Tinie Tempah,One Direction,personalizado
+1655844129,38,intento,Eduardo,ok,Lago Tromen,Lago Tromen,personalizado
+1655844131,38,intento,Eduardo,error,Childish Gambino,Fetty Wap,personalizado
+1655844140,38,intento,Eduardo,error,Childish Gambino,Lago Correntoso,personalizado
+1655844143,38,intento,Eduardo,error,Márcio Velinha,Josip Elez,personalizado
+1655844144,38,intento,Eduardo,error,Itaitinga,Phil Jones,personalizado
+1655844146,38,intento,Eduardo,error,Lago Epecuén,Lago Blanco,personalizado
+1655844148,38,intento,Eduardo,ok,Lago San Martín,Lago San Martín,personalizado
+1655844151,38,intento,Eduardo,error,Felipe Flores,Tobias Müller,personalizado
+1655844152,38,intento,Eduardo,error,Santiago Orozco,Thijs Dallinga,personalizado
+1655844154,38,intento,Eduardo,error,Coldplay,Offset,personalizado
+1655844155,38,intento,Eduardo,ok,Ricardo Andreutti,Ricardo Andreutti,personalizado
+1655844155,38,fin,Eduardo,finalizada,-,-,personalizado
+1655844159,39,inicio_partida,Eduardo,-,-,-,personalizado
+1655844161,39,intento,Eduardo,error,Oriol Romeu,Mathieu Baudry,personalizado
+1655844163,39,intento,Eduardo,error,Taylor Swift,Katy Perry,personalizado
+1655844164,39,intento,Eduardo,ok,Ariana Grande,Ariana Grande,personalizado
+1655844166,39,intento,Eduardo,error,Petit Biscuit,Chris Brown,personalizado
+1655844167,39,intento,Eduardo,error,Petit Biscuit,Waka Flocka Flame,personalizado
+1655844181,39,fin,Eduardo,abandonada,-,-,personalizado
+1655844532,40,inicio_partida,Eduardo,-,-,-,personalizado
+1655844535,40,intento,Eduardo,error,XXXTENTACION,Selena Gomez,personalizado
+1655844537,40,intento,Eduardo,error,Dominik Furman,Jaroslaw Kubicki,personalizado
+1655844542,40,intento,Eduardo,error,Lago Huechulafquen,Lago Argentino,personalizado
+1655844544,40,intento,Eduardo,error,Shandon Baptiste,Saeed Juma,personalizado
+1655844547,40,fin,Eduardo,abandonada,-,-,personalizado
+1655844781,41,inicio_partida,Eduardo,-,-,-,personalizado
+1655844788,41,intento,Eduardo,ok,Lago Fontana,Lago Fontana,personalizado
+1655844790,41,intento,Eduardo,error,Lago Paimún,Lago Quillén,personalizado
+1655844791,41,intento,Eduardo,error,Imagine Dragons,Shawn Mendes,personalizado
+1655844793,41,intento,Eduardo,ok,Graeme Shinnie,Graeme Shinnie,personalizado
+1655844794,41,intento,Eduardo,error,Orestis Kiomourtzoglou,Kai Shibato,personalizado
+1655844798,41,intento,Eduardo,error,Lago San Martín,Lago Nahuel Huapi,personalizado
+1655844799,41,intento,Eduardo,error,Mark Ronson,Ariana Grande,personalizado
+1655844801,41,intento,Eduardo,error,Byron Moore,Alexandre Ippolito,personalizado
+1655844803,41,intento,Eduardo,error,Rihanna,Bad Bunny,personalizado
+1655844806,41,intento,Eduardo,error,Oh In-Pyo,Ignacio Rivero,personalizado
+1655844807,41,intento,Eduardo,error,Oh In-Pyo,Katy Perry,personalizado
+1655844808,41,intento,Eduardo,error,Lago Blanco,Lago Viedma,personalizado
+1655844809,41,intento,Eduardo,error,Lago Quiroga Chico,Lago Pico Nº 1,personalizado
+1655844811,41,intento,Eduardo,error,Lago Quiroga Chico,Lago Nansen,personalizado
+1655844813,41,intento,Eduardo,error,Lago Asador o Guitarra,Lago Espejo,personalizado
+1655844813,41,fin,Eduardo,finalizada,-,-,personalizado
+1655844977,42,inicio_partida,Lucia,-,-,-,personalizado
+1655844979,42,intento,Lucia,error,Lago Perito Moreno,Lago Pellegrini,personalizado
+1655844981,42,fin,Lucia,abandonada,-,-,personalizado
+1655844985,43,inicio_partida,Rodrigo,-,-,-,facil
+1655844988,43,intento,Rodrigo,error,Koen Casteels,Fernando Beltrán,facil
+1655844989,43,intento,Rodrigo,error,Kevin Fickentscher,Dimitri Liénard,facil
+1655844992,43,intento,Rodrigo,error,Lago Menéndez,Lago Argentino,facil
+1655844993,43,intento,Rodrigo,error,Katy Perry,DJ Khaled,facil
+1655844995,43,intento,Rodrigo,ok,Dardo Miloc,Dardo Miloc,facil
+1655844996,43,fin,Rodrigo,finalizada,-,-,facil
+1655845009,44,inicio_partida,Rodrigo,-,-,-,personalizado
+1655845011,44,intento,Rodrigo,error,Lil Wayne,Lupe Fiasco,personalizado
+1655845013,44,intento,Rodrigo,ok,Jonathan Espericueta,Jonathan Espericueta,personalizado
+1655845015,44,intento,Rodrigo,error,MARINA,Jeremih,personalizado
+1655845016,44,intento,Rodrigo,error,Jerónimo Rodríguez,Alaixys Romao,personalizado
+1655845017,44,intento,Rodrigo,error,Lady Gaga,The 1975,personalizado
+1655845019,44,intento,Rodrigo,error,Lago Falkner,Lago Nahuel Huapi,personalizado
+1655845021,44,intento,Rodrigo,ok,A$AP Ferg,A$AP Ferg,personalizado
+1655845023,44,intento,Rodrigo,ok,Carlos Sánchez,Carlos Sánchez,personalizado
+1655845024,44,intento,Rodrigo,ok,Travis Scott,Travis Scott,personalizado
+1655845026,44,intento,Rodrigo,error,Chris Brown,The xx,personalizado
+1655845030,44,intento,Rodrigo,error,Chris Brown,Lago Quiroga,personalizado
+1655845030,44,fin,Rodrigo,finalizada,-,-,personalizado
+1655845063,45,inicio_partida,Joaquin,-,-,-,personalizado
+1655845064,45,intento,Joaquin,error,Snakehips,Foster The People,personalizado
+1655845066,45,intento,Joaquin,error,Sabit Abdulai,Markus Schubert,personalizado
+1655845067,45,intento,Joaquin,ok,Nelly,Nelly,personalizado
+1655845069,45,intento,Joaquin,error,Florida Georgia Line,The Lumineers,personalizado
+1655845070,45,intento,Joaquin,error,Mihai Bordeianu,Paul Wade,personalizado
+1655845071,45,intento,Joaquin,ok,Britney Spears,Britney Spears,personalizado
+1655845074,45,intento,Joaquin,error,Lago Nansen,Lago General Vintter,personalizado
+1655845075,45,intento,Joaquin,ok,2 Chainz,2 Chainz,personalizado
+1655845075,45,intento,Joaquin,error,2 Chainz,Taylor Swift,personalizado
+1655845076,45,intento,Joaquin,error,Jason Aldean,Bruno Mars,personalizado
+1655845076,45,intento,Joaquin,error,Jason Aldean,Maluma,personalizado
+1655845078,45,intento,Joaquin,error,will.i.am,Lilly Wood and The Prick,personalizado
+1655845080,45,intento,Joaquin,error,Lago La Plata,Lago Aluminé,personalizado
+1655845082,45,intento,Joaquin,error,Frederik Winther,Brackson León,personalizado
+1655845083,45,intento,Joaquin,error,Hamad Suliman Al Jayzani,Mohammed Abdu Khubrani,personalizado
+1655845083,45,fin,Joaquin,finalizada,-,-,personalizado
+1655845272,46,inicio_partida,Damian,-,-,-,facil
+1655845275,46,intento,Damian,error,Lago Huechulafquen,Lago Tar,facil
+1655845275,46,intento,Damian,error,Lago Huechulafquen,Musa Barrow,facil
+1655845278,46,intento,Damian,error,Lago Yehuin,Lago Cardiel,facil
+1655845278,46,intento,Damian,error,Lago Yehuin,Post Malone,facil
+1655845280,46,intento,Damian,error,Jonas Blue,Post Malone,facil
+1655845280,46,fin,Damian,finalizada,-,-,facil
+1655845288,47,inicio_partida,Lucas,-,-,-,facil
+1655845290,47,intento,Lucas,error,Joel Obi,Luca Ceppitelli,facil
+1655845293,47,intento,Lucas,ok,Lago Tar,Lago Tar,facil
+1655845294,47,intento,Lucas,error,Lago Correntoso,Lago Onelli,facil
+1655845296,47,intento,Lucas,ok,K'NAAN,K'NAAN,facil
+1655845298,47,intento,Lucas,error,Calvin Harris,K'NAAN,facil
+1655845298,47,fin,Lucas,finalizada,-,-,facil
+1655845617,48,inicio_partida,Lucia,-,-,-,personalizado
+1655845619,48,intento,Lucia,error,Flo Rida,Far East Movement,personalizado
+1655845621,48,intento,Lucia,error,Scott Allardice,Ferdinand Oswald,personalizado
+1655845622,48,intento,Lucia,error,Nicki Minaj,Taylor Swift,personalizado
+1655845624,48,intento,Lucia,error,Of Monsters and Men,Bingo Players,personalizado
+1655845625,48,intento,Lucia,error,Harisson Marcelin,Cornel Dinu,personalizado
+1655845627,48,intento,Lucia,error,Mustard,Frank Ocean,personalizado
+1655845628,48,intento,Lucia,error,Marquinhos,Emanuel Dening,personalizado
+1655845629,48,intento,Lucia,error,Hugh Jackman,Hailee Steinfeld,personalizado
+1655845631,48,intento,Lucia,error,Meghan Trainor,Hailee Steinfeld,personalizado
+1655845631,48,fin,Lucia,finalizada,-,-,personalizado
+1655845636,49,inicio_partida,Lucia,-,-,-,personalizado
+1655845638,49,intento,Lucia,ok,Lago Nahuel Huapi,Lago Nahuel Huapi,personalizado
+1655845639,49,intento,Lucia,error,Lago Meliquina,Lago Burmeister,personalizado
+1655845640,49,intento,Lucia,error,Lago Meliquina,AJ Tracey,personalizado
+1655845670,49,intento,Lucia,timeout,-,Lago Tromen,personalizado
+1655845675,49,intento,Lucia,error,Kim Bo Kyung,Sami Matoug,personalizado
+1655845677,49,intento,Lucia,ok,G-Eazy,G-Eazy,personalizado
+1655845678,49,intento,Lucia,error,G-Eazy,Lago Burmeister,personalizado
+1655845679,49,intento,Lucia,error,Dan + Shay,Chris Brown,personalizado
+1655845681,49,intento,Lucia,error,Frank Ocean,Chris Brown,personalizado
+1655845681,49,fin,Lucia,finalizada,-,-,personalizado
+1655845729,50,inicio_partida,Antonela,-,-,-,facil
+1655845733,50,intento,Antonela,ok,Mohamed Salah,Mohamed Salah,facil
+1655845735,50,intento,Antonela,error,Lago Onelli,Lago San Martín,facil
+1655845737,50,intento,Antonela,error,Lago Río Chico,Lago Río Bueno,facil
+1655845738,50,intento,Antonela,error,Halsey,Hailee Steinfeld,facil
+1655845740,50,intento,Antonela,error,Example,Hailee Steinfeld,facil
+1655845740,50,fin,Antonela,finalizada,-,-,facil
+1655913519,51,inicio_partida,Juana,-,-,-,personalizado
+1655913522,51,intento,Juana,ok,Lago Moquehue,Lago Moquehue,personalizado
+1655913524,51,intento,Juana,error,Lago Tromen,Lago Pueyrredón,personalizado
+1655913526,51,intento,Juana,error,Meek Mill,Jason Derulo,personalizado
+1655913529,51,intento,Juana,ok,Jonas Brothers,Jonas Brothers,personalizado
+1655913533,51,intento,Juana,ok,Jonas Brothers,Jonas Brothers,personalizado
+1655913533,51,fin,Juana,finalizada,-,-,personalizado
+1655913539,52,inicio_partida,Juana,-,-,-,personalizado
+1655913541,52,intento,Juana,error,Lago Quillén,Lago Rosario,personalizado
+1655913543,52,intento,Juana,error,Maximiliano Villa,Zafer Görgen,personalizado
+1655913544,52,intento,Juana,error,Anne-Marie,The Weeknd,personalizado
+1655913546,52,intento,Juana,error,Lago Strobel,Lago Tar,personalizado
+1655913549,52,intento,Juana,error,Lago Epuyén,Lago Tar,personalizado
+1655913549,52,fin,Juana,finalizada,-,-,personalizado
+1655913614,53,inicio_partida,Lucas,-,-,-,dificil
+1655913616,53,intento,Lucas,error,Daniel Bartl,Madger Gomes,dificil
+1655913617,53,intento,Lucas,error,Ariana Grande,Chris Brown,dificil
+1655913618,53,intento,Lucas,ok,Maximiliano Villa,Maximiliano Villa,dificil
+1655913620,53,intento,Lucas,error,Matty Lund,Daniel Buballa,dificil
+1655913626,53,intento,Lucas,ok,Gökay Güney,Gökay Güney,dificil
+1655913634,53,intento,Lucas,ok,Alan Uryga,Alan Uryga,dificil
+1655913638,53,intento,Lucas,ok,Nicholas Wunsch,Nicholas Wunsch,dificil
+1655913642,53,intento,Lucas,error,J. Cole,Jay Sean,dificil
+1655913648,53,intento,Lucas,error,Zedd,Kendrick Lamar,dificil
+1655913651,53,intento,Lucas,error,ZHU,The Lumineers,dificil
+1655913651,53,fin,Lucas,finalizada,-,-,dificil
+1655941923,54,inicio_partida,Marian,-,-,-,normal
+1655941926,54,intento,Marian,error,Lago Falkner,Lago Pico Nº 1,normal
+1655941927,54,intento,Marian,ok,Lago Pueyrredón,Lago Pueyrredón,normal
+1655941928,54,intento,Marian,error,Lago Pueyrredón,Ariana Grande,normal
+1655941932,54,intento,Marian,error,Lago Quiroga,Lago Aluminé,normal
+1655941933,54,intento,Marian,error,Hwang ByeongGeun,Efecan Karaca,normal
+1655941935,54,intento,Marian,error,Bad Bunny,The Weeknd,normal
+1655941938,54,intento,Marian,error,Tinie Tempah,Khalid,normal
+1655941941,54,intento,Marian,error,Tinie Tempah,Lago Perito Moreno,normal
+1655941941,54,fin,Marian,finalizada,-,-,normal
+1655942085,55,inicio_partida,Ezequiel,-,-,-,normal
+1655942087,55,intento,Ezequiel,error,Walter González,Guélor Kanga,normal
+1655942088,55,intento,Ezequiel,error,Lago Musters,Lago San Martín,normal
+1655942090,55,intento,Ezequiel,error,Jean-Louis Leca,James Tarkowski,normal
+1655942094,55,intento,Ezequiel,ok,Kygo,Kygo,normal
+1655942099,55,intento,Ezequiel,ok,Ben Stephens,Ben Stephens,normal
+1655942103,55,intento,Ezequiel,error,Lago Chepelmut,Lago Rivadavia,normal
+1655942106,55,intento,Ezequiel,error,Drake,Post Malone,normal
+1655942110,55,intento,Ezequiel,error,Adama Traoré,Ibrahima Seck,normal
+1655942111,55,fin,Ezequiel,finalizada,-,-,normal
+1655951224,56,inicio_partida,Lucia,-,-,-,personalizado
+1655951226,56,intento,Lucia,error,Zedd,Khalid,personalizado
+1655951226,56,intento,Lucia,error,Lago Paimún,Lago Fontana,personalizado
+1655951227,56,intento,Lucia,error,Ole Jørgen Halvorsen,Matías Dituro,personalizado
+1655951227,56,intento,Lucia,error,Alan Marinelli,Nikola Stojiljkovic,personalizado
+1655951228,56,intento,Lucia,error,Example,Selena Gomez,personalizado
+1655951229,56,intento,Lucia,error,MAGIC!,Drake,personalizado
+1655951230,56,intento,Lucia,error,Yves-Simon Pambou,Ben Amos,personalizado
+1655951230,56,intento,Lucia,error,Nathan Ngoumou,Ibrahim Sangaré,personalizado
+1655951231,56,intento,Lucia,error,Lago Quillén,Lago Chepelmut,personalizado
+1655951231,56,fin,Lucia,finalizada,-,-,personalizado
+1655951237,57,inicio_partida,Lucia,-,-,-,normal
+1655951239,57,intento,Lucia,error,Érico Sousa,Efkan Bekiroglu,normal
+1655951239,57,intento,Lucia,error,Zhu Baojie,Alessandro Mastalli,normal
+1655951240,57,intento,Lucia,error,Bastille,Jason Aldean,normal
+1655951241,57,intento,Lucia,ok,Oh Wonder,Oh Wonder,normal
+1655951242,57,intento,Lucia,error,Danijel Zagorac,Gustav Wikheim,normal
+1655951244,57,intento,Lucia,ok,Lago Traful,Lago Traful,normal
+1655951245,57,intento,Lucia,ok,Callum Harriott,Callum Harriott,normal
+1655951246,57,intento,Lucia,error,Post Malone,Young Money,normal
+1655951246,57,fin,Lucia,finalizada,-,-,normal
+1655985705,58,inicio_partida,Gema,-,-,-,normal
+1655985709,58,intento,Gema,error,Adele,Foster The People,normal
+1655985711,58,intento,Gema,error,Adele,Lago Puelo,normal
+1655985719,58,intento,Gema,error,Lago Nansen,Lago Tromen,normal
+1655985724,58,intento,Gema,error,B.o.B,The Lumineers,normal
+1655985726,58,intento,Gema,error,Lago Cholila,Lago Río Chico,normal
+1655985729,58,intento,Gema,error,Lago Tromen,Lago Río Bueno,normal
+1655985733,58,intento,Gema,error,Lana Del Rey,Kygo,normal
+1655985737,58,intento,Gema,ok,Stone Mambo,Stone Mambo,normal
+1655985737,58,fin,Gema,finalizada,-,-,normal
+1655985796,59,inicio_partida,Lucia,-,-,-,normal
+1655985798,59,fin,Lucia,abandonada,-,-,normal
+1655990605,60,inicio_partida,Antonela,-,-,-,dificil
+1655990611,60,intento,Antonela,error,Anderson Emanuel,Jason Lowe,dificil
+1655990612,60,intento,Antonela,error,Flo Rida,Imagine Dragons,dificil
+1655990613,60,intento,Antonela,ok,Flo Rida,Flo Rida,dificil
+1655990615,60,intento,Antonela,error,Martin Linnes,Omar Mendoza,dificil
+1655990616,60,intento,Antonela,error,Lago Tromen,Lago Correntoso,dificil
+1655990618,60,fin,Antonela,abandonada,-,-,dificil
+1655990645,61,inicio_partida,Jorge,-,-,-,facil
+1655990647,61,fin,Jorge,abandonada,-,-,facil
+1655990834,62,inicio_partida,Francisca,-,-,-,facil
+1655990850,62,fin,Francisca,abandonada,-,-,facil
+1657650581.3195522,63,inicio_partida,Juan,-,-,-,facil
+1657650605.1151807,63,intento,Juan,ok,Francisco Pol Hurtado,Francisco Pol Hurtado,facil
+1657650615.9233973,63,intento,Juan,ok,Matías Rodríguez,Matías Rodríguez,facil
+1657650626.9230468,63,intento,Juan,ok,José Juan Vázquez,José Juan Vázquez,facil
+1657650633.8030145,63,intento,Juan,ok,Lago San Martín,Lago San Martín,facil
+1657650638.651085,63,intento,Juan,error,Lago Chepelmut,Lago Burmeister,facil
+1657650638.6595173,63,fin,Juan,finalizada,-,-,facil
+1657650665.34268,64,inicio_partida,Pedro,-,-,-,facil
+1657650676.0831733,64,intento,Pedro,ok,Tolgahan Acar,Tolgahan Acar,facil
+1657650684.0272338,64,intento,Pedro,ok,Canice Carroll,Canice Carroll,facil
+1657650698.5155451,64,intento,Pedro,ok,Taylor Swift,Taylor Swift,facil
+1657650717.1153414,64,intento,Pedro,ok,Maroon 5,Maroon 5,facil
+1657650725.619373,64,intento,Pedro,error,Years & Years,Miley Cyrus,facil
+1657650725.6413794,64,fin,Pedro,finalizada,-,-,facil
+1657650755.4955602,65,inicio_partida,Mariana,-,-,-,facil
+1657650764.8115036,65,intento,Mariana,error,Lago Puelo,Lago Río Chico,facil
+1657650771.8835258,65,intento,Mariana,error,Lago Epecuén,Lago Falkner,facil
+1657650776.2035406,65,intento,Mariana,error,Kendrick Lamar,Aminé,facil
+1657650784.363568,65,intento,Mariana,ok,George Ezra,George Ezra,facil
+1657650795.7318275,65,intento,Mariana,ok,One Direction,One Direction,facil
+1657650795.7413194,65,fin,Mariana,finalizada,-,-,facil
+1657651874.4322462,66,inicio_partida,Joaquin,-,-,-,personalizado
+1657652029.655617,66,intento,Joaquin,error,,Lago Quillén,personalizado
+1657652029.9917655,66,intento,Joaquin,error,,Lago Asador o Guitarra,personalizado
+1657652030.159829,66,intento,Joaquin,error,,Rihanna,personalizado
+1657652030.319785,66,intento,Joaquin,error,,Kesha,personalizado
+1657652030.6879234,66,intento,Joaquin,error,,Shawn Mendes,personalizado
+1657652032.2477741,66,intento,Joaquin,error,,DJ Khaled,personalizado
+1657652032.799775,66,intento,Joaquin,error,,Waka Flocka Flame,personalizado
+1657652033.3839836,66,intento,Joaquin,error,,Tom Odell,personalizado
+1657652033.5839846,66,intento,Joaquin,error,,Jules Sylvestre-Brac,personalizado
+1657652033.7440047,66,intento,Joaquin,error,,Rhys Norrington-Davies,personalizado
+1657652033.9037788,66,intento,Joaquin,error,,Lago Rivadavia,personalizado
+1657652034.0719814,66,intento,Joaquin,error,,Lago Belgrano,personalizado
+1657652034.2401206,66,intento,Joaquin,error,,Lago Rosario,personalizado
+1657652034.4237792,66,intento,Joaquin,error,,Hervin Ongenda,personalizado
+1657652034.6236193,66,intento,Joaquin,error,,Lago Yehuin,personalizado
+1657652034.6695006,66,fin,Joaquin,finalizada,-,-,personalizado
+1659189286.3151393,67,inicio_partida,Lucia,-,-,-,normal
+1659189289.3342993,67,intento,Lucia,error,Marcel Langer,Alex Ferrari,normal
+1659189290.5220146,67,intento,Lucia,error,Lago Falkner,Lago Azara,normal
+1659189291.7011425,67,intento,Lucia,error,Lago Onelli,Lago Río Chico,normal
+1659189292.9720325,67,intento,Lucia,error,Piotr Parzyszek,Mathéo Vroman,normal
+1659189294.0097895,67,intento,Lucia,ok,Lago Tromen,Lago Tromen,normal
+1659189294.9456291,67,intento,Lucia,error,Lago Tromen,Ovidiu Bic,normal
+1659189296.8576694,67,intento,Lucia,error,Lago Tromen,Lago Moquehue,normal
+1659189297.436189,67,intento,Lucia,error,Lago Tromen,Gautier Lloris,normal
+1659189297.4735584,67,fin,Lucia,finalizada,-,-,normal
+1662512199.905513,68,inicio_partida,Eduardo,-,-,-,personalizado
+1662512201.0582874,68,fin,Eduardo,abandonada,-,-,personalizado
+1662512202.0277045,69,inicio_partida,Eduardo,-,-,-,personalizado
+1662512205.6118789,69,intento,Eduardo,error,Route 94,A$AP Rocky,personalizado
+1662512207.4485686,69,intento,Eduardo,error,Kosei Shibasaki,Mohammed Al Fatil,personalizado
+1662512209.1369536,69,intento,Eduardo,error,Taiwo Awoniyi,Saud Abdulhamid,personalizado
+1662512210.6108294,69,fin,Eduardo,abandonada,-,-,personalizado
+1662512474.6583767,70,inicio_partida,Joaquin,-,-,-,personalizado
+1662512479.8505523,70,intento,Joaquin,error,Post Malone,Lizzo,personalizado
+1662512494.9571474,70,intento,Joaquin,timeout,-,Lago Quiroga Chico,personalizado
+1662512502.8518007,70,intento,Joaquin,error,Stelios Kokovas,Alexey Ionov,personalizado
+1662512511.438162,70,intento,Joaquin,ok,Calvin Harris,Calvin Harris,personalizado
+1662512516.0048609,70,intento,Joaquin,ok,Ali Al Habsi,Ali Al Habsi,personalizado
+1662512521.696722,70,intento,Joaquin,ok,Cole Bassett,Cole Bassett,personalizado
+1662512523.3414588,70,intento,Joaquin,error,Cole Bassett,Maroon 5,personalizado
+1662512524.731402,70,intento,Joaquin,ok,Volodymyr Shepelev,Volodymyr Shepelev,personalizado
+1662512526.4386396,70,intento,Joaquin,error,Lago Huechulafquen,Lago Asador o Guitarra,personalizado
+1662512528.0943012,70,intento,Joaquin,ok,Ahmed Yasin,Ahmed Yasin,personalizado
+1662512531.048625,70,intento,Joaquin,ok,Kevin Holzweiler,Kevin Holzweiler,personalizado
+1662512539.1293294,70,intento,Joaquin,error,Kevin Holzweiler,Victor Wanyama,personalizado
+1662512546.044138,70,intento,Joaquin,error,Manuel Perez,Iván Bolaño,personalizado
+1662512550.0487387,70,intento,Joaquin,ok,Bad Bunny,Bad Bunny,personalizado
+1662512555.7658029,70,intento,Joaquin,ok,Lago Tromen,Lago Tromen,personalizado
+1662512555.7813346,70,fin,Joaquin,finalizada,-,-,personalizado
